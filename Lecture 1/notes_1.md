@@ -1,5 +1,17 @@
 # Lecture 1 — Mathematical Foundations
 
+## Sources
+
+- **Primary source:** Saarland University — Theoretical Computer Science, Lecture 1 slide.
+- **Supplementary:** 
+    - Dr. Trefor Bazett - [Reflexive, Symmetric, and Transitive Relations on a Set](https://youtu.be/q0xN_N7l_Kw?si=ITRK0FOAP5LLgTOe)
+    - Dr. Trefor Bazett - [You need to check EVERY spot for reflexivity, symmetry, and transitivity](https://youtu.be/TctNssYMXJE?si=_SP7xDVUQdfOkzcI)
+    - Areallnamesgone - [
+Injective, Surjective and bi-jective](https://youtu.be/MY4-5mXfWzo?si=IHibgy1I1lRYuEvQ)
+    - Dr. Trefor Bazett - [Cantor's Diagonal Argument: The rationals and reals have different sizes?!?!?](https://youtu.be/0HF39OWyl54?si=A3WqZrZWOLdIP_OH)
+
+---
+
 ## 1. Sets
 
 A set is a collection of distinct objects.
