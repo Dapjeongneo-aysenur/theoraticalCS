@@ -16,7 +16,7 @@ The study follows the subject areas outlined in the course's module handbook.
 
 ## Repository Contents
 
-This repository serves as a working record of the study and include:
+This repository serves as a working record of the study and includes:
 
 - **Lecture Notes:** Structured explanations of definitions, theorems, and key concepts.
 - **Exercise Solutions:** Worked solutions with reasoning and mathematical justification.
@@ -39,4 +39,4 @@ Through this independent study, I aim to strengthen my ability to:
 
 Other supplementary resources are mentioned at the start of the notes.
 
-This is an independent learning project, not a record of formal course enrollment or completion.
+*This is an independent learning project, not a record of formal course enrollment or completion.*
