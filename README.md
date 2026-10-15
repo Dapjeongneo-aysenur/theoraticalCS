@@ -36,6 +36,7 @@ Through this independent study, I aim to strengthen my ability to:
 ## Resources
 
 - **Saarland University — Introduction to Theoretical Computer Science:** Lecture materials used as the primary study resource.
+
 Other supplementary resources are mentioned at the start of the notes.
 
 This is an independent learning project, not a record of formal course enrollment or completion.
