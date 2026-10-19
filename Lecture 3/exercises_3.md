@@ -93,7 +93,7 @@ Use the factorial construction from the notes to explain how arbitrarily long ru
 ## 2. Things I still have doubts about
 
 <!-- Write the concept, proof, or intuition that is still unclear. -->
-I am not comfortable with the proof on the examples and not sure how to improve it.
+I am not comfortable with the proof on the examples. The good news is Lecture 4 get more into the lemma!
 
 ## Evidence
 
