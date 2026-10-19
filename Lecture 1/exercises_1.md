@@ -298,27 +298,14 @@ for every $a\in A$.
 
 # Reflection
 
-## 1. What I understood
-
-Write 2–4 sentences about the concepts that you understand intuitively, not just by definition.
-
-- Sets and subsets:
-- Relations:
-- Functions:
-- Injective / surjective:
-- Cardinality:
-- Cantor's theorem:
-
----
-
-## 2. One concept I initially misunderstood
+## 1. One concept I initially misunderstood
 
 <!-- Describe one misconception and how you corrected it. -->
 - Proofs made with cardinalities
 
 ---
 
-## 3. Things I still have doubts about
+## 2. Things I still have doubts about
 
 <!-- Write one concept/proof in your own words. -->
 - Transitivity in some specific examples
@@ -330,13 +317,3 @@ Write 2–4 sentences about the concepts that you understand intuitively, not ju
 ## Evidence
 
 The handwritten solutions for selected exercises are included in the `images/` directory.
-
-Selected exercises:
-
-- Exercise 1 — Sets and subsets
-- Exercise 2 — Power set
-- Exercise 3 — Relation properties
-- Exercise 4 — Equivalence classes
-- Exercise 6 — Injective / surjective
-- Exercise 7 — Cardinality
-- Exercise 9 — Cantor's theorem

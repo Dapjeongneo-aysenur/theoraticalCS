@@ -398,21 +398,12 @@ Finally, explain the main conceptual question introduced by these models:
 
 # Reflection
 
-## 1. What I understood
-
-Write 2–4 sentences about the concepts that you understand intuitively, not just by definition.
-
-- Countability and the lemmas:
-- Cantor diagonalization:
-- Strings and languages:
-- Computing mechanisms:
-
-## 2. One concept I initially misunderstood
+## 1. One concept I initially misunderstood
 
 <!-- Describe one misconception and how you corrected it. -->
 At first I thought $\varepsilon$ is included in any $\Sigma$. Like the $\emptyset$ is an element of all sets. Then I correct myself as $\varepsilon$ = $\Sigma^0$. If there is $\Sigma^0$, then there is $\varepsilon$.
 
-## 3. Things I still have doubts about
+## 2. Things I still have doubts about
 
 <!-- Write the concept, proof, or intuition that is still unclear. -->
 I am not sure exactly how the computing mechanism works. As new lecture will focus that topic, I aim to learn more about it in next lecture.
