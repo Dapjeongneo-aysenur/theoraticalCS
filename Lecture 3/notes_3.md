@@ -2,8 +2,9 @@
 
 ## Sources
 
-- **Primary source:** Saarland University — Theoretical Computer Science, Lecture 2 slide.
+- **Primary source:** Saarland University — Theoretical Computer Science, Lecture 3 slide.
 - **Supplementary:**
+   - UC Computer Science Education - [Finite State Automata - An Introduction](https://www.youtube.com/playlist?list=PL6A42PgbxHNQA4p1SdZYv2a9ByWIBB2KJ)
 
 ---
 
